@@ -1,0 +1,37 @@
+{
+    "platform": "pc",
+    "atlas":
+    {
+        "pc": {
+            "width": 2048,
+            "height": 2048,
+            "tileSize": 256,
+            "tileCount": 6,
+            "sliceSize": 512,
+            "borderSize": 42
+        },
+        "ios": {
+            "width": 2048,
+            "height": 2048,
+            "tileSize": 256,
+            "tileCount": 6,
+            "borderSize": 42
+        }
+    },
+    "materials":
+    [
+        {
+            "name": "Air"
+        },
+        {
+            "name": "Water",
+            "water": 0.5
+        },
+        {
+            "name": "Grass",
+            "texture_top": { "tiling": 0.25, "detiling": 0.25, "rotation": 1.0 },
+            "texture_side": { "tiling": 0.2, "detiling": 0.2 },
+            "texture_bottom": { "tiling": 0.45, "detiling": 0.45 }
+        }
+    ]
+}
