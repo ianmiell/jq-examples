@@ -4,7 +4,7 @@ cd "${0%/*}"
 
 source ../library/library.sh
 
-FILE='../json/example_with_arrays.json'
+FILE='json/example_with_arrays.json'
 
 cmd "cat $FILE" 'The raw file'
 cmd "cat $FILE | jq '.materials[1]'" 'output second element of materials'

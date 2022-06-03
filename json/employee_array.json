@@ -1,0 +1,7 @@
+{"workers":
+  [
+    {"name": "Ol Nick","id":"666","dept":"accounts"},
+    {"name": "New Bob","id":"999","dept":"accounts"},
+    {"name": "Phil Herrup","id":"333","dept":"IT"}
+  ]
+}
