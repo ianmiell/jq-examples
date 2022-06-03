@@ -1,8 +1,10 @@
 #!/bin/bash
 
-source library.sh
+cd "${0%/*}"
 
-FILE='json/example_with_arrays.json'
+source ../library/library.sh
+
+FILE='../json/example_with_arrays.json'
 
 cmd "cat $FILE" 'The raw file'
 cmd "cat $FILE | jq '.materials[1]'" 'output second element of materials'

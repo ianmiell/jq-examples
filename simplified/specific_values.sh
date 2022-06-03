@@ -1,8 +1,10 @@
 #!/bin/bash
 
-source library.sh
+cd "${0%/*}"
 
-FILE='json/example_with_arrays.json'
+source ../library/library.sh
+
+FILE='../json/example_with_arrays.json'
 
 cmd "cat $FILE" 'the raw file'
 cmd "cat ${FILE} | jq '.platform'" '^^just get the .platform value'

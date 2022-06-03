@@ -666,8 +666,7 @@
                     {
                         "containerID": "containerd://1d2cc14405930e2213c039f93af9d424a44f48a370c385ffd4f7135656b4c13e",
                         "image": "cr.l5d.io/linkerd/controller:stable-2.11.2",
-                        "imageID": "cr.l5d.io/linkerd/controller@sha256:04f5351bb7749f511780b5bf0089019596acee4ef096517c48ba55db
-0c8bc405",
+                        "imageID": "cr.l5d.io/linkerd/controller@sha256:04f5351bb7749f511780b5bf0089019596acee4ef096517c48ba55db0c8bc405",
                         "lastState": {},
                         "name": "destination",
                         "ready": true,
@@ -682,8 +681,7 @@
                     {
                         "containerID": "containerd://90afd88b0c5e32772401e79eac1032b87e6b26d56f056e8efdd73b445ce230d1",
                         "image": "cr.l5d.io/linkerd/proxy:stable-2.11.2",
-                        "imageID": "cr.l5d.io/linkerd/proxy@sha256:e8f64592154cb52fa26773deeb35d2afcec21a26ec128ff3990a5c69f1731
-183",
+                        "imageID": "cr.l5d.io/linkerd/proxy@sha256:e8f64592154cb52fa26773deeb35d2afcec21a26ec128ff3990a5c69f1731183",
                         "lastState": {},
                         "name": "linkerd-proxy",
                         "ready": true,
@@ -698,8 +696,7 @@
                     {
                         "containerID": "containerd://d3b2cf22a4ed9ed62c7a88f90c3980fec680e1b06ee5c585703c930405399a47",
                         "image": "cr.l5d.io/linkerd/policy-controller:stable-2.11.2",
-                        "imageID": "cr.l5d.io/linkerd/policy-controller@sha256:46b261bad5b9bda29707d5179b6709c8563634ee9d74ccffb
-2074cfa50c4815a",
+                        "imageID": "cr.l5d.io/linkerd/policy-controller@sha256:46b261bad5b9bda29707d5179b6709c8563634ee9d74ccffb2074cfa50c4815a",
                         "lastState": {},
                         "name": "policy",
                         "ready": true,
@@ -714,8 +711,7 @@
                     {
                         "containerID": "containerd://37776412c3306ad0c41979e0ade03f565844ed2ac73998fe0b7f9a7863f468ee",
                         "image": "cr.l5d.io/linkerd/controller:stable-2.11.2",
-                        "imageID": "cr.l5d.io/linkerd/controller@sha256:04f5351bb7749f511780b5bf0089019596acee4ef096517c48ba55db
-0c8bc405",
+                        "imageID": "cr.l5d.io/linkerd/controller@sha256:04f5351bb7749f511780b5bf0089019596acee4ef096517c48ba55db0c8bc405",
                         "lastState": {},
                         "name": "sp-validator",
                         "ready": true,
@@ -733,8 +729,7 @@
                     {
                         "containerID": "containerd://0313d97d1e4e982c10c7fbf902f3d14300488e15ea403cbacba1db6d2ed4caeb",
                         "image": "cr.l5d.io/linkerd/proxy-init:v1.5.3",
-                        "imageID": "cr.l5d.io/linkerd/proxy-init@sha256:66eddbca64f0490d89df97e5c7e9f265b34928fc77a664a0237b9a00
-c4387e21",
+                        "imageID": "cr.l5d.io/linkerd/proxy-init@sha256:66eddbca64f0490d89df97e5c7e9f265b34928fc77a664a0237b9a00c4387e21",
                         "lastState": {},
                         "name": "linkerd-init",
                         "ready": true,
@@ -1291,8 +1286,7 @@ c4387e21",
                     {
                         "containerID": "containerd://5ef4b88690aa65b983f1102650ed624ec5802909ba13019b77693c84f2aecc91",
                         "image": "cr.l5d.io/linkerd/controller:stable-2.11.2",
-                        "imageID": "cr.l5d.io/linkerd/controller@sha256:04f5351bb7749f511780b5bf0089019596acee4ef096517c48ba55db
-0c8bc405",
+                        "imageID": "cr.l5d.io/linkerd/controller@sha256:04f5351bb7749f511780b5bf0089019596acee4ef096517c48ba55db0c8bc405",
                         "lastState": {},
                         "name": "identity",
                         "ready": true,
@@ -1307,8 +1301,7 @@ c4387e21",
                     {
                         "containerID": "containerd://50ec9f704d739bb73712511ee49529426e6950ad13950e9b7e4aeb91540de3b9",
                         "image": "cr.l5d.io/linkerd/proxy:stable-2.11.2",
-                        "imageID": "cr.l5d.io/linkerd/proxy@sha256:e8f64592154cb52fa26773deeb35d2afcec21a26ec128ff3990a5c69f1731
-183",
+                        "imageID": "cr.l5d.io/linkerd/proxy@sha256:e8f64592154cb52fa26773deeb35d2afcec21a26ec128ff3990a5c69f1731183",
                         "lastState": {},
                         "name": "linkerd-proxy",
                         "ready": true,
@@ -1326,8 +1319,7 @@ c4387e21",
                     {
                         "containerID": "containerd://71fa7c8efd47c42af6c55a15cd144ccd561233c9646af27fff74d120bad28650",
                         "image": "cr.l5d.io/linkerd/proxy-init:v1.5.3",
-                        "imageID": "cr.l5d.io/linkerd/proxy-init@sha256:66eddbca64f0490d89df97e5c7e9f265b34928fc77a664a0237b9a00
-c4387e21",
+                        "imageID": "cr.l5d.io/linkerd/proxy-init@sha256:66eddbca64f0490d89df97e5c7e9f265b34928fc77a664a0237b9a00c4387e21",
                         "lastState": {},
                         "name": "linkerd-init",
                         "ready": true,
@@ -1893,8 +1885,7 @@ c4387e21",
                     {
                         "containerID": "containerd://96ae7f98a260e83023ee512c51e73dcd5650ac230d0c2a969a052a1d8477241b",
                         "image": "cr.l5d.io/linkerd/proxy:stable-2.11.2",
-                        "imageID": "cr.l5d.io/linkerd/proxy@sha256:e8f64592154cb52fa26773deeb35d2afcec21a26ec128ff3990a5c69f1731
-183",
+                        "imageID": "cr.l5d.io/linkerd/proxy@sha256:e8f64592154cb52fa26773deeb35d2afcec21a26ec128ff3990a5c69f1731183",
                         "lastState": {},
                         "name": "linkerd-proxy",
                         "ready": true,
@@ -1909,8 +1900,7 @@ c4387e21",
                     {
                         "containerID": "containerd://6c111511aa9e942cfee0da4d68404f90079feb80785265380583b79900c2d59f",
                         "image": "cr.l5d.io/linkerd/controller:stable-2.11.2",
-                        "imageID": "cr.l5d.io/linkerd/controller@sha256:04f5351bb7749f511780b5bf0089019596acee4ef096517c48ba55db
-0c8bc405",
+                        "imageID": "cr.l5d.io/linkerd/controller@sha256:04f5351bb7749f511780b5bf0089019596acee4ef096517c48ba55db0c8bc405",
                         "lastState": {
                             "terminated": {
                                 "containerID": "containerd://6bb1f4d946a3f7e45b7cea059adea30706b96d7dab5b3d8f48a4d46937efcf9d",
@@ -1936,8 +1926,7 @@ c4387e21",
                     {
                         "containerID": "containerd://87d84225ccd3a8966032dfd6daa7a57073410ac10ac3f4406dcfb69d75a557c6",
                         "image": "cr.l5d.io/linkerd/proxy-init:v1.5.3",
-                        "imageID": "cr.l5d.io/linkerd/proxy-init@sha256:66eddbca64f0490d89df97e5c7e9f265b34928fc77a664a0237b9a00
-c4387e21",
+                        "imageID": "cr.l5d.io/linkerd/proxy-init@sha256:66eddbca64f0490d89df97e5c7e9f265b34928fc77a664a0237b9a00c4387e21",
                         "lastState": {},
                         "name": "linkerd-init",
                         "ready": true,
